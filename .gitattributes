@@ -1,0 +1,5 @@
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.webp linguist-vendored
+_test/** linguist-vendored
